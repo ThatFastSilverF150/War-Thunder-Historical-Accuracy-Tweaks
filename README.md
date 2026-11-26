@@ -15,3 +15,6 @@ NATO call-signs will be an optional package when completed.
 
 # Next Planned 
 - American Aviation Ranks I-V
+
+## Disclaimer
+War Thunder Historical Accuracy Tweaks is **NOT** compatible with other langmods - **DO NOT** try mixing my mod with IFN1 or other langmods.
