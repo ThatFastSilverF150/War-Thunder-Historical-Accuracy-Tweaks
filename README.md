@@ -7,11 +7,11 @@ Non-Italic nations will have vehicles named by their native language
 NATO call-signs will be an optional package when completed.
 
 ## Recent Changes
-- American Air Tree Ranks VI-IX
+- American Aviation Ranks VI-IX
 
 ## Current Additions
-- Swedish Air Tree Ranks I-IX
-- American Air Tree Ranks VI-IX
+- Swedish Aviation Ranks I-IX
+- American Aviation Ranks VI-IX
 
 ## Next Planned 
 - American Aviation Ranks I-V
