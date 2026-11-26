@@ -7,14 +7,14 @@ Non-Italic nations will have vehicles named by their native language
 NATO call-signs will be an optional package when completed.
 
 ## Recent Changes
-- American Aviation Ranks VI-IX
+- American Aviation Ranks I-V
 
 ## Current Additions
 - Swedish Aviation Ranks I-IX
-- American Aviation Ranks VI-IX
+- American Aviation Ranks I-IX
 
 ## Next Planned 
-- American Aviation Ranks I-V
+- German Aviation Ranks I-II
 
 # Disclaimer
 War Thunder Historical Accuracy Tweaks is **NOT** compatible with other langmods - **DO NOT** try mixing my mod with IFN1 or other langmods.
