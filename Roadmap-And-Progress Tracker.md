@@ -1,17 +1,17 @@
 #0.2.X Beta - Aviation *Committed*
  - 0.2.1 
-  - Swedish Aviation *Delivered*
+   - Swedish Aviation *Delivered*
  - 0.2.2 
-  - American Aviation *Delivered*
+   - American Aviation *Delivered*
  - 0.2.3 
-  - German Aviation *Committed*
+   - German Aviation *Committed*
  - 0.2.4 
-  - Russian Aviation *Committed*
+   - Russian Aviation *Committed*
  - 0.2.5 
-  - British Aviation *Committed*
+   - British Aviation *Committed*
  - 0.2.6 
-  - French Aviation *Committed*
+   - French Aviation *Committed*
  - 0.2.7 
-  - Italian Aviation *Committed*
+   - Italian Aviation *Committed*
  - 0.2.8 
-  - Chinese Aviation *Committed*
+   - Chinese Aviation *Committed*
