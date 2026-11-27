@@ -1,4 +1,4 @@
-#0.2.X Beta - Aviation *Committed*
+# 0.2.X Beta - Aviation *Committed*
  - 0.2.1 
    - Swedish Aviation *Delivered*
  - 0.2.2 
@@ -15,3 +15,11 @@
    - Italian Aviation *Committed*
  - 0.2.8 
    - Chinese Aviation *Committed*
+ - 0.2.9
+   - Israeli Aviation *Committed*
+ 
+# 0.3.X Beta - Ground Forces *Committed*
+ - Ground Trees (Order Undetermined) *Committed*
+ - Guns and Cannons ~ Air and Ground *Tentative*
+ 
+
