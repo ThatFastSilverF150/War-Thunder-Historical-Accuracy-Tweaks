@@ -15,6 +15,7 @@ NATO call-signs will be an optional package when completed.
 
 ## Next Planned 
 - German Aviation Ranks I-II
+- WEAPON PACK HAS BEEN PUSHED AHEAD OF SCHEDULE
 
 # Disclaimer
 War Thunder Historical Accuracy Tweaks is **NOT** compatible with other langmods - **DO NOT** try mixing my mod with IFN1 or other langmods.
