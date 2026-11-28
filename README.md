@@ -3,7 +3,9 @@ This uses custom localization to change the display names of most vehicles in Wa
 
 ### Purpose
 To make all planes for now, and eventually tanks and ships more historically accurate in their naming. 
-Non-Italic nations will have vehicles named by their native language
+Non-Italic nations will have vehicles named by their native language's Latin transliteration.
+
+
 NATO call-signs will be an optional package when completed.
 
 ## Recent Changes
