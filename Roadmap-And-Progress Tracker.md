@@ -5,6 +5,7 @@
    - American Aviation *Delivered*
  ### - 0.2.3 
    - German Aviation *Committed*
+   - Weaponry and Ammunition (ALL TREES) *Tentative*
  ### - 0.2.4 
    - Russian Aviation *Committed*
  ### - 0.2.5 
@@ -20,16 +21,10 @@
  
 # 0.3.X Beta - Ground Forces *Committed*
  - Ground Trees (Order Undetermined) *Committed*
- - Guns and Cannons ~ Air and Ground *Tentative*
 
 # 0.4.X Beta - Naval *Committed*
  - Naval Trees (Order Undetermined) *Committed*
- - Guns and Cannons ~ Navy *Tentative*
 
 # 0.5.X Beta - Helicopters *Committed*
  - Helicopter Trees (Order Undetermined) *Committed*
- - Missiles - All Trees *Tentative*
-
-# 0.6.X Beta - Finishing Touches
- - Ammunition - All Trees *Committed*
 
